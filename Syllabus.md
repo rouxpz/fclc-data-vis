@@ -2,8 +2,8 @@
 #### Fordham College at Lincoln Center
 New Media & Digital Design, Fall 2015
 
-<strong>Prof. Roopa Vasudevan</strong>
-Class Time TBD
+<strong>Prof. Roopa Vasudevan</strong> 
+Class Time TBD 
 Office Hours: TBD
 
 The word "data" is everywhere these days, mostly in reference to just how much of it we are generating, all the time. But once we have this data, how can we create tools that enable us to better understand exactly what it means? This class explores the world of data visualization and representation. We will look at a wide variety of examples, from charts and infographics, to interactive and web-based projects, to abstract, sculptural and more artistic works. Students will also work hands-on with taking raw datasets and translating them into visual outputs that allow the content to be read and understood by a larger audience.
@@ -18,7 +18,7 @@ We will use both the Java-based Processing programming environment for desktop a
 - Introduction to Processing as a design tool
   - drawing shapes
   - map()
-  - arrays and ArrayList()
+  - arrays, loops, and ArrayList()
   - color modes
   - PVector and motion
 
