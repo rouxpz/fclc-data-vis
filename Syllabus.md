@@ -49,6 +49,7 @@ We will use both the Java-based Processing programming environment for desktop a
 ### Week 6: Text
 - Word counting and concordance
 - Markov Chains
+- Sentiment analysis and natural language processing
 
 ### Week 7: Midterm Presentations
 
@@ -60,6 +61,7 @@ We will use both the Java-based Processing programming environment for desktop a
 ### Week 9: JavaScript & Web, Part 2
 
 ### Week 10: Audio & Sculpture
+- Final Project Proposals
 - Data Sonification
   - Processing sound library, Minim
 - Data Sculpture
@@ -67,8 +69,14 @@ We will use both the Java-based Processing programming environment for desktop a
   - Modelbuilder, Geomerative
 
 ### Week 11: Public Space & Activism
+- Site specific installation
+- Public art
+- Street art
+- Data art for activism
 
-### Week 12: Bias and Accuracy
+### Week 12: Big Data, Bias and Accuracy
+- What does "Big Data" really mean?
+- Accurate representations
 
 ### Week 13: In-Class Work Week
 
