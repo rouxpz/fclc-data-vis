@@ -10,7 +10,7 @@ The word "data" is everywhere these days, mostly in reference to just how much o
 
 We will use both the Java-based Processing programming environment for desktop and physical projects, as well as JavaScript (mainly the d3 and p5 libraries) for web-based visualizations and design. However, projects using other languages or methods are highly encouraged. There will be weekly assignments, as well as a midterm and final project. This class will not go over programming fundamentals, so previous knowledge of an object-oriented language is highly recommended.
 
-Texts:
+Texts:  
 [Visualizing Data](http://shop.oreilly.com/product/9780596514556.do), Ben Fry  
 [Envisioning Information](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=pd_cp_b_1), Edward Tufte
 
@@ -46,15 +46,19 @@ Texts:
 - Parsing JSON in Processing:
   - [JSONObject](https://processing.org/reference/JSONObject.html)
   - [JSON Arrays](https://processing.org/reference/JSONArray.html)
+- APIs and live data sources
 
-### Week 5: Location
+### Week 5: Location & Tracking
 - Maps & Data
   - What does location add to a dataset?
-- Overview of mapping libraries and tools:
-  - [Unfolding Maps](http://unfoldingmaps.org/)
-  - [OpenPaths](https://openpaths.cc/)
-  - [CartoDB (JavaScript)](http://cartodb.com/)
-  - [MapBox (JavaScript)](https://www.mapbox.com/)
+  - Overview of mapping libraries and tools:
+    - [Unfolding Maps](http://unfoldingmaps.org/)
+    - [OpenPaths](https://openpaths.cc/)
+    - [CartoDB (JavaScript)](http://cartodb.com/)
+    - [MapBox (JavaScript)](https://www.mapbox.com/)
+- Quantified Self & self-tracking
+  - Data from self-tracking devices (FitBit, Fuelband, iOS Health, etc.)
+  - [Nicholas Felton](http://feltron.com/)
 
 ### Week 6: Text
 - Looking at text as a data source
