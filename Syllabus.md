@@ -96,7 +96,9 @@ Texts:
 
 ### Week 12: Big Data, Bias and Accuracy
 - What does "Big Data" really mean?
-- "Accurate" and "inaccurate" data visualization
+  - Data trails, Edward Snowden and the NSA
+- "Accuracy" in data visualization
+  - What constitutes an "accurate" data vis? Does an artist's bias always come in to play?
 
 ### Week 13: In-Class Work Week
 
