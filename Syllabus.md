@@ -8,9 +8,11 @@ Office Hours: TBD
 
 The word "data" is everywhere these days, mostly in reference to just how much of it we are generating, all the time. But once we have this data, how can we create tools that enable us to better understand exactly what it means? This class explores the world of data visualization and representation. We will look at a wide variety of examples, from charts and infographics, to interactive and web-based projects, to abstract, sculptural and more artistic works. Students will also work hands-on with taking raw datasets and translating them into visual outputs that allow the content to be read and understood by a larger audience.
 
-We will use both the Java-based Processing programming environment for desktop and physical projects, as well as JavaScript (mainly the d3 and p5 libraries) for web-based visualizations and design. However, projects using other languages or methods are highly encouraged. There will be weekly assignments, as well as a midterm and final project. This class will not go over programming fundamentals, so previous knowledge of an object-oriented language is highly recommended.
+We will use both the Java-based Processing programming environment for desktop and physical projects, as well as JavaScript (mainly the d3 and p5 libraries) for web-based visualizations and design. However, projects using other languages or methods are highly encouraged. There will be weekly assignments, as well as a midterm and final project. No prior programming experience is required, but we will move realtively quickly through programming fundamentals, and some self-study will be required.
 
 Texts:  
+[Learning Processing](http://www.learningprocessing.com/), Daniel Shiffman  
+[Processing: A Programming Handbook for Visual Designers and Artists](), Casey Reas & Ben Fry  
 [Visualizing Data](http://shop.oreilly.com/product/9780596514556.do), Ben Fry  
 [Envisioning Information](http://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=pd_cp_b_1), Edward Tufte
 
@@ -20,47 +22,53 @@ Texts:
 - What is data & data visualization?
 - Overview of course
 - Introduction to [Processing](http://processing.org) as a design tool
+  - basic Processing syntax
   - drawing shapes
-  - map()
-  - arrays, loops, and ArrayList()
-  - color modes
-  - PVector and motion
+  - variables and animation
 
-### Week 2: XML
+### Week 2: Information Design
+- Charts & graphs: the OGs of data vis
+- Infographics
+- Programming Concepts: Choice & Iteration
+  - Conditionals: if, else, if/else
+  - Loops: while & for
+  - Arrays and ArrayList()
+
+### Week 3: Data Types - XML
+- Programming Concepts: Object Oriented Design
+  - Classes and objects
 - Parsing XML in Processing:
   - Understanding the format
   - The [XML object](https://processing.org/reference/XML.html)
-- Object Oriented Design
-  - Review of classes and objects
   - Creating objects from your data and saving them
 
-### Week 3: Tabular Data
+### Week 4: Data Types - Tabular Data
+- Programming Concepts: The String
+  - Working with text and words
 - CSV in Processing
-  - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)
   - The [Table class](https://processing.org/reference/Table.html)
-- [HashMaps](https://processing.org/reference/HashMap.html) and associative arrays -- for when things aren't so cleanly organized
+  - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)
 
-### Week 4: JSON
-- Midterm Project Proposals
+### Week 5: Data Types - JSON
 - How to read a JSON file
 - Parsing JSON in Processing:
   - [JSONObject](https://processing.org/reference/JSONObject.html)
   - [JSON Arrays](https://processing.org/reference/JSONArray.html)
 - APIs and live data sources
+- [HashMaps](https://processing.org/reference/HashMap.html) and associative arrays: for when things aren't so cleanly organized
 
-### Week 5: Location & Tracking
+### Week 6: Location & Tracking
+- Using external libraries in Processing
 - Maps & Data
   - What does location add to a dataset?
   - Overview of mapping libraries and tools:
     - [Unfolding Maps](http://unfoldingmaps.org/)
     - [OpenPaths](https://openpaths.cc/)
-    - [CartoDB (JavaScript)](http://cartodb.com/)
-    - [MapBox (JavaScript)](https://www.mapbox.com/)
 - Quantified Self & self-tracking
   - Data from self-tracking devices (FitBit, Fuelband, iOS Health, etc.)
   - [Nicholas Felton](http://feltron.com/)
 
-### Week 6: Text
+### Week 7: Text
 - Looking at text as a data source
 - Burroughs, cut-ups, and the history of generative text
 - Text munging strategies in Processing:
@@ -68,15 +76,18 @@ Texts:
   - [Markov Chains](http://en.wikipedia.org/wiki/Markov_chain) and the [RiTA library](http://rednoise.org/rita/)
   - Brief introduction to Natural Language Processing
 
-### Week 7: Midterm Presentations
-
 ### Week 8: JavaScript & Web, Part 1
+- **Midterm project due**
 - Introduction to JavaScript and the [Document Object Model (DOM)](http://css-tricks.com/dom/)
+- JavaScript syntax and the differences from Processing
 - Examples of web-based visualizations
 - Parsing data in JavaScript using [d3.js](http://d3js.org/)
 
 ### Week 9: JavaScript & Web, Part 2
 - Using [d3.js](http://d3js.org/) and [p5.js](http://p5js.org/) to visualize data
+- Libraries and tools in JavaScript:
+  - [CartoDB (JavaScript)](http://cartodb.com/)
+  - [MapBox (JavaScript)](https://www.mapbox.com/)
 
 ### Week 10: Audio & Sculpture
 - Final Project Proposals
