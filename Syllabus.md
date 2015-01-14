@@ -37,6 +37,7 @@ Texts:
 ### Week 3: Data Types - XML
 - Programming Concepts: Object Oriented Design
   - Classes and objects
+  - Creating arrays and ArrayList() for custom classes
 - Parsing XML in Processing:
   - Understanding the format
   - The [XML object](https://processing.org/reference/XML.html)
