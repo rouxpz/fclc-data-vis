@@ -18,6 +18,8 @@ Participation is very important and will impact grading. In particular, critique
 
 Laptops and cell phones are not to be used in class, as there are designated computers in the classroom on which to work. Computers are to be used for following along during demos and for individual project work during workshopping days. Please do not use the computers during class discussions or during other students’ project critiques.
 
+Students will be required to post weekly updates and progress on a blog of your choosing: either an existing blog with a specific, class-related tag, or a new blog created especially for the class. Some good resources for blog creation are Wordpress, Tumblr, or Blogger, but any platform may be used as long as it is publicly accessible.
+
 Projects are due by the beginning of class on the assigned due date. Grades will drop 10% for every day past the due date that an assignment is not turned in.
 
 Attendance is mandatory. More than two (2) unexcused absences will result in automatic failure. Please be prompt to class; lateness of more than ten (10) minutes will count as an unexcused absence unless cleared beforehand.
@@ -77,7 +79,7 @@ HOMEWORK: Review chapters 1-4 and the associated examples in [Learning Processin
 HOMEWORK: Watch videos 0.0-4.3 in the [ICM Video Series](http://icm.shiffman.net/). There is also [Hello Processing](http://hello.processing.org/), an online tutorial that may be useful as well.  
 HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use the functions we used in class this week, but also don't be afraid to try new things and [explore the reference page](https://processing.org/reference/). Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).  
 
-###September 10: Week 2 - Information Design
+### September 10: Week 2 - Information Design
 - Charts & graphs: the OGs of data vis
 - Infographics
 - Programming Concepts: Choice & Iteration
@@ -95,7 +97,7 @@ HOMEWORK: Create a Processing sketch that:
 
 These can either be 2 smaller sketches, or one larger sketch. Upload the sketch(es) to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
 
-###NO CLASS SEPTEMBER 17
+### September 17: NO CLASS
 
 ### September 24: Week 3 - Data Types (XML)
 - Programming Concepts: Object Oriented Design
@@ -194,6 +196,8 @@ HOMEWORK: Continue work on final project.
 - Data art for activism
 
 HOMEWORK: Continue work on final project. Post a progress update with documentation of the work completed so far to your blog.
+
+### November 26: NO CLASS, Happy Thanksgiving!
 
 ### December 3: Week 12 - Big Data, Bias and Accuracy
 - What does "Big Data" really mean?
