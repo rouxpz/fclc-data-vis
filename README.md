@@ -4,8 +4,8 @@ New Media & Digital Design, Fall 2015
 
 <strong>Prof. Roopa Vasudevan</strong>  
 Thursdays, 6pm-8:45pm  
-Lowenstein 308  
-Office Hours: Tuesdays, 1pm to 5pm  
+Lowenstein 310  
+Office Hours: Tuesdays, 1pm to 5pm. [Sign up here.](https://www.google.com/calendar/selfsched?sstoken=UUV1dWhzSFpMSVEtfGRlZmF1bHR8ZmY4YTdmODhiM2NjNDQ1NDI4MGRmNjIwNDkzZTBjZjc)  
 
 The word "data" is everywhere these days, mostly in reference to just how much of it we are generating, all the time. But once we have this data, how can we create tools that enable us to better understand exactly what it means? This class explores the world of data visualization and representation. We will look at a wide variety of examples, from charts and infographics, to interactive and web-based projects, to abstract, sculptural and more artistic works. Students will also work hands-on with taking raw datasets and translating them into visual outputs that allow the content to be read and understood by a larger audience.
 
@@ -13,7 +13,7 @@ We will use both the Java-based Processing programming environment for desktop a
 
 By the end of the course, students should understand and be able to utilize the basics of computer programming, as well as demonstrate an ability to take a raw data set and present it in a visual manner.
 
-##Class Expectations
+## Class Expectations  
 Participation is very important and will impact grading. In particular, critique will play a large and crucial role in this class. Please pay attention when fellow students are presenting their work and be prepared to give thoughtful, considerate feedback. Keep all feedback related to the work only; personal attacks will not be tolerated.
 
 Laptops and cell phones are not to be used in class, as there are designated computers in the classroom on which to work. Computers are to be used for following along during demos and for individual project work during workshopping days. Please do not use the computers during class discussions or during other students’ project critiques.
@@ -28,22 +28,22 @@ As in written and academic work, it is extremely important that you credit sourc
 
 I welcome feedback and am eager to hear your thoughts about the class. If something isn’t working for you or you’re feeling behind, do not hesitate to let me know. The sooner I find out about any issues, the sooner I can fix them!
 
-##Grading
+## Grading
 20%: Class participation and blog  
 20%: Weekly homework assignments  
 25%: Midterm project  
 35%: Final project  
 
-##Texts
+## Texts
 REQUIRED:  
-[Learning Processing](http://www.learningprocessing.com/), Daniel Shiffman (ISBN 978-0123944436, [Buy on Amazon](http://www.amazon.com/Learning-Processing-Second-Programming-Interaction/dp/0123944430/ref=sr_1_1?s=books&ie=UTF8&qid=1441039482&sr=1-1&keywords=learning+processing))  
+[Learning Processing](http://www.learningprocessing.com/) (Second Edition), Daniel Shiffman (ISBN 978-0123944436, [Buy on Amazon](http://www.amazon.com/Learning-Processing-Second-Programming-Interaction/dp/0123944430/ref=sr_1_1?s=books&ie=UTF8&qid=1441039482&sr=1-1&keywords=learning+processing))  
 
 OPTIONAL:  
 [Processing: A Programming Handbook for Visual Designers and Artists](), Casey Reas & Ben Fry (ISBN 978-0262028288)  
 [Visualizing Data](http://shop.oreilly.com/product/9780596514556.do), Ben Fry (ISBN 978-0596514556)  
 [The Visual Display of Quantitative Information](http://www.amazon.com/The-Visual-Display-Quantitative-Information/dp/0961392142), Edward Tufte (ISBN 978-0961392147)
 
-##Resources
+## Resources
 [Processing Reference Page](http://processing.org/reference)  
 [ICM Video Series](http://icm.shiffman.net/): a series of videos illustrating the fundamentals of programming with Processing. Created for the Introduction to Computational Media class at [NYU's ITP](http://itp.nyu.edu).  
 [Official Processing Web Site](http://www.processing.org/)  
@@ -55,7 +55,7 @@ OPTIONAL:
 [Programming Terms and Environments Summary](https://itp.nyu.edu/physicalcomputing/lessons/programming/programming-terms-and-programming-environments/)  
 [A Brief Introduction to Debugging](http://vimeo.com/channels/debugging) Video Series
 
-##Schedule
+## Schedule
 
 **Please note: this syllabus is a living document that will evolve over the course of the semester with links to assignments, readings and resources. Please bookmark this page and refer back to it weekly.**
 
@@ -222,8 +222,8 @@ This documentation should include the following:
 
 ### December 17 (Finals Week): Week 14 - Final Presentations
 
-##University Statement on Academic Integrity
+## University Statement on Academic Integrity
 A University, by its nature, strives to foster and recognize originality of thought. Originality can only be recognized, however, when people acknowledge the sources of ideas or works that are not their own. Therefore, students must maintain the highest standards with regards to honesty, effort and performance. Violations of academic integrity include, but are not limited to: plagiarism, cheating on exams, false authorship, and destruction of library materials needed for a course. This policy gives definitions and instances of violations of academic integrity, the procedures used to arrive at a judgment, possible sanctions, and the process of appeal. This policy will be enforced rigorously and without discrimination. Please refer to your Student Handbook for a full discussion of the Policy on Academic Integrity.
 
-##Students with Disabilities
+## Students with Disabilities
 Under the Americans with Disabilities Act and Section 504 of the Vocational Rehabilitation Act of 1973, all students, with or without disabilities, are entitled to equal access to the programs and activities of Fordham University. The University will make every attempt to provide reasonable accommodations to students who have a documented disability. Students who are seeking accommodation(s) for a disability should contact the Director of Disability Services , Lowenstein Room 207, (212) 636-6282.
