@@ -6,6 +6,7 @@ New Media & Digital Design, Fall 2015
 Thursdays, 6pm-8:45pm  
 Lowenstein 310  
 Office Hours: Tuesdays, 1pm to 5pm. [Sign up here.](https://www.google.com/calendar/selfsched?sstoken=UUV1dWhzSFpMSVEtfGRlZmF1bHR8ZmY4YTdmODhiM2NjNDQ1NDI4MGRmNjIwNDkzZTBjZjc)  
+Email: [rvasudevan@fordham.edu](mailto:rvasudevan@fordham.edu)
 
 The word "data" is everywhere these days, mostly in reference to just how much of it we are generating, all the time. But once we have this data, how can we create tools that enable us to better understand exactly what it means? This class explores the world of data visualization and representation. We will look at a wide variety of examples, from charts and infographics, to interactive and web-based projects, to abstract, sculptural and more artistic works. Students will also work hands-on with taking raw datasets and translating them into visual outputs that allow the content to be read and understood by a larger audience.
 
