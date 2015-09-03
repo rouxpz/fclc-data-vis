@@ -21,11 +21,11 @@ Laptops and cell phones are not to be used in class, as there are designated com
 
 Students will be required to post weekly updates and progress on a blog of your choosing: either an existing blog with a specific, class-related tag, or a new blog created especially for the class. Some good resources for blog creation are Wordpress, Tumblr, or Blogger, but any platform may be used as long as it is publicly accessible.
 
-Projects are due by the beginning of class on the assigned due date. Grades will drop 10% for every day past the due date that an assignment is not turned in.
+Assignments and projects are due by the beginning of class on the assigned due date. **Please come to class every week prepared to share your work with the group.** A project grade will drop 10% for every day past the due date that it is not turned in.
 
 Attendance is mandatory. More than two (2) unexcused absences will result in automatic failure. Please be prompt to class; lateness of more than ten (10) minutes will count as an unexcused absence unless cleared beforehand.
 
-As in written and academic work, it is extremely important that you credit sources used that are not your own, and any collaborators you may work with. Any plagiarism or uncredited outside contributions found in any work will result in a failing grade on the project.
+I am a huge believer in the open source movement, and the idea that the sharing of code and resources is vital to the software world. It's okay to draw inspiration from other developers' work and libraries; most of the time, that's what they're there for. However, it is extremely important that you credit sources and code used that are not your own, and any collaborators you may work with. **Don't take credit for someone else's code. Any plagiarism or uncredited outside contributions found in any work will result in a failing grade on the project.**
 
 I welcome feedback and am eager to hear your thoughts about the class. If something isn’t working for you or you’re feeling behind, do not hesitate to let me know. The sooner I find out about any issues, the sooner I can fix them!
 
@@ -82,6 +82,7 @@ HOMEWORK: Watch videos 0.0-4.3 in the [ICM Video Series](http://icm.shiffman.net
 HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use the functions we used in class this week, but also don't be afraid to try new things and [explore the reference page](https://processing.org/reference/). Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).  
 ### September 10: Week 2 - Information Design
 - Charts & graphs: the OGs of data vis
+- Guest Lecture: TBD
 - Infographics
 - Programming Concepts: Choice & Iteration
   - Conditionals: if, else, if/else
@@ -89,7 +90,7 @@ HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use t
   - Arrays and ArrayList()
   - the map() function
 
-HOMEWORK: Find a static (meaning non-interactive) infographic online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
+HOMEWORK: Find a static (meaning non-interactive) infographic or chart online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
 HOMEWORK: Review chapters 5-9 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
 HOMEWORK: Watch videos 5.0-9.4 in the [ICM Video Series](http://icm.shiffman.net/).  
 HOMEWORK: Create a Processing sketch that:
@@ -206,18 +207,17 @@ HOMEWORK: Continue work on final project.
 
 ### December 3: Week 12 - Public Space, Activism & "Big" Data
 
-- Site specific installation
-- Public art
-- Street art
+- Site specific installation, public art & street art
 - Data art for activism
+- Guest Lecture: [Peter Darche](http://peterdarche.com/), Data Engineer at [DataKind](http://www.datakind.org/projects/)
 - Big Data
   - What does "Big Data" really mean?
     - Data trails, Edward Snowden and the NSA
+- Working with larger data sets
+  - Tools to analyze data: Python, R
+  - [Mechanical Turk](https://www.mturk.com/mturk/welcome) and crowdsourcing data collection
 - "Accuracy" in data visualization
-  - What constitutes an "accurate" data vis? Does an artist's bias always come in to play?
-- The Open Source movement
-  - What does open source mean?
-  - Posting your code publicly on GitHub
+    - What constitutes an "accurate" data vis? Does an artist's bias always come in to play?
 
 HOMEWORK: Continue work on final project. Post a progress update with documentation of the work completed so far to your blog.
 
