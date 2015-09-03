@@ -139,6 +139,7 @@ HOMEWORK: Come up with an idea for a midterm project. This is a collaborative ef
 
 ### October 15: Week 6 - Location & Tracking
 - Midterm project proposals (if time)
+- Guest Lecture: [Mimi Onuoha](http://mimionuoha.com/), Data & Society Fellow, Tow Center Researcher and NatGeo Fulbright Fellow 2014-2015
 - Using external libraries in Processing
 - Maps & Data
   - What does location add to a dataset?
