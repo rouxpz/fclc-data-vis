@@ -179,8 +179,10 @@ HOMEWORK: Download [Sublime Text](http://www.sublimetext.com/) and [the p5.js Ed
 
 HOMEWORK: Read [Long Live The Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf) by Tim Berners-Lee. Post a response in your blog.  
 HOMEWORK: Revisit one of your old Processing sketches - and try your hand at translating it into JavaScript with p5.
+HOMEWORK: Come up with an idea for a final project. This should be an individual work. Post a detailed description of the project on your blog - what the dataset is, how you're planning on representing it, and what meaning you're hoping to convey to your audience.  
 
 ### November 12: Week 10 - JavaScript & Web, Part 2
+- Final Project Proposals
 - Parsing data in JavaScript using [d3.js](http://d3js.org/)
 - Using [d3.js](http://d3js.org/) and [p5.js](http://p5js.org/) to visualize data
 - Libraries and tools in JavaScript:
@@ -188,10 +190,9 @@ HOMEWORK: Revisit one of your old Processing sketches - and try your hand at tra
   - [MapBox (JavaScript)](https://www.mapbox.com/)
 
 HOMEWORK: Read [Systems Esthetics](http://www.arts.ucsb.edu/faculty/jevbratt/readings/burnham_se.html) by Jack Burnham. Post a response to your blog.  
-HOMEWORK: Come up with an idea for a final project. This should be an individual work. Post a detailed description of the project on your blog - what the dataset is, how you're planning on representing it, and what meaning you're hoping to convey to your audience.
+HOMEWORK: Begin work on your final project.  
 
 ### November 19: Week 11 - Audio & Sculpture
-- Final Project Proposals
 - Data Sonification
   - [Processing sound library](https://www.processing.org/reference/libraries/sound/index.html)
   - [Minim](http://code.compartmental.net/tools/minim/)
