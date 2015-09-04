@@ -83,7 +83,7 @@ HOMEWORK: Watch videos 0.0-4.3 in the [ICM Video Series](http://icm.shiffman.net
 HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use the functions we used in class this week, but also don't be afraid to try new things and [explore the reference page](https://processing.org/reference/). Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).  
 ### September 10: Week 2 - Information Design
 - Charts & graphs: the OGs of data vis
-- Guest Lecture: TBD
+- Guest Lecture: [Danne Woo](http://www.dannewoo.com/), Designer; Founder & CEO of [Datavisual](http://datavisu.al/)
 - Infographics
 - Programming Concepts: Choice & Iteration
   - Conditionals: if, else, if/else
