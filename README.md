@@ -89,6 +89,7 @@ HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use t
   - Conditionals: if, else, if/else
   - Loops: while & for
   - Arrays
+- [Slides from class available here.](https://docs.google.com/presentation/d/1JRbV12HyUQR9y_FkaASAGdQ-cavqmhGzG-8ACG031-I/edit?usp=sharing)
 
 HOMEWORK: Find a static (meaning non-interactive) infographic or chart online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
 HOMEWORK: Review chapters 5-9 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
