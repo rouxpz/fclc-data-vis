@@ -88,8 +88,7 @@ HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use t
 - Programming Concepts: Choice & Iteration
   - Conditionals: if, else, if/else
   - Loops: while & for
-  - Arrays and ArrayList()
-  - the map() function
+  - Arrays
 
 HOMEWORK: Find a static (meaning non-interactive) infographic or chart online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
 HOMEWORK: Review chapters 5-9 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
@@ -105,7 +104,9 @@ These can either be 2 smaller sketches, or one larger sketch. Upload the sketch(
 ### September 24: Week 3 - Data Types (XML)
 - Programming Concepts: Object Oriented Design
   - Classes and objects
+  - ArrayList()
   - Creating arrays and ArrayList() for custom classes
+  - the map() function
 - Parsing XML in Processing:
   - Understanding the format
   - The [XML object](https://processing.org/reference/XML.html)
