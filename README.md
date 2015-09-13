@@ -85,45 +85,48 @@ HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use t
 - Charts & graphs: the OGs of data vis
 - Guest Lecture: [Danne Woo](http://www.dannewoo.com/), Designer; Founder & CEO of [Datavisual](http://datavisu.al/)
 - Infographics
-- Programming Concepts: Choice & Iteration
+- Programming Concepts: Choice
   - Conditionals: if, else, if/else
-  - Loops: while & for
-  - Arrays
 - [Slides from class available here.](https://docs.google.com/presentation/d/1JRbV12HyUQR9y_FkaASAGdQ-cavqmhGzG-8ACG031-I/edit?usp=sharing)
 
 HOMEWORK: Find a static (meaning non-interactive) infographic or chart online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
-HOMEWORK: Review chapters 5-9 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
-HOMEWORK: Watch videos 5.0-9.4 in the [ICM Video Series](http://icm.shiffman.net/).  
+HOMEWORK: Review chapter 5 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
+HOMEWORK: Watch videos 5.0-5.4 in the [ICM Video Series](http://icm.shiffman.net/).
 HOMEWORK: Create a Processing sketch that utilizes conditional logic. Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
 
 ### September 17: NO CLASS
 
-### September 24: Week 3 - Data Types (XML)
-- Programming Concepts: Object Oriented Design
-  - Classes and objects
+### September 24: Week 3 - Repetition
+- Programming Concepts: Iteration & Text
+  - Loops: while & for
+  - Arrays
   - ArrayList()
-  - Creating arrays and ArrayList() for custom classes
+  - The String: Working with text and words
+  - Writing your own functions
   - the map() function
-- Parsing XML in Processing:
+
+HOMEWORK: Review chapters 6, 7, 9 and 17 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
+HOMEWORK: Watch videos 6.0-7.3, 9.0-9.4, and 17.0 in the [ICM Video Series](http://icm.shiffman.net/).   
+HOMEWORK: Create a Processing sketch that produces a lot of something.  Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
+
+### October 1: Week 4 - Data Types (XML & Tabular Data)
+- Programming Concepts: Oriented Design
+  -  Classes and objects
+  -  Creating arrays and ArrayList() for custom classes
+- Types of Data
+  - XML in Processing
   - Understanding the format
   - The [XML object](https://processing.org/reference/XML.html)
   - Creating objects from your data and saving them
-
-HOMEWORK: Review chapters 7, 8, and 17-19 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
-HOMEWORK: Watch video 18.4 in the [ICM Video Series](http://icm.shiffman.net/).  
-HOMEWORK: Pick an XML dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use an XML source of your choosing.
-
-### October 1: Week 4 - Data Types (Tabular Data)
-- Programming Concepts: The String
-  - Working with text and words
 - CSV in Processing
   - The [Table class](https://processing.org/reference/Table.html)
   - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)
 
-HOMEWORK: Watch videos 18.3 and 18.5 in the [ICM Video Series](http://icm.shiffman.net/).  
-HOMEWORK: Pick a CSV dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use a CSV source of your choosing.
+HOMEWORK: HOMEWORK: Review chapters 8 and 18 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
+HOMEWORK: Watch videos 8.0-8.5 and 18.3 - 18.5 in the [ICM Video Series](http://icm.shiffman.net/).  
+HOMEWORK: Pick a dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use a data source of your choosing.
 
-### October 8: Week 5 - Data Types (JSON)
+### October 8: Week 5 - Data Types (JSON & APIs)
 - How to read a JSON file
 - Parsing JSON in Processing:
   - [JSONObject](https://processing.org/reference/JSONObject.html)
