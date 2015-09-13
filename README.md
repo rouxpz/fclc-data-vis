@@ -91,7 +91,7 @@ HOMEWORK: Use Processing to create a simple animated drawing. Feel free to use t
 
 HOMEWORK: Find a static (meaning non-interactive) infographic or chart online that you think is a good visualization of its dataset. Write a blog post on why this is the case. Please be detailed - I do not want to read "because it explains the data well".  
 HOMEWORK: Review chapter 5 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
-HOMEWORK: Watch videos 5.0-5.4 in the [ICM Video Series](http://icm.shiffman.net/).
+HOMEWORK: Watch videos 5.0-5.4 in the [ICM Video Series](http://icm.shiffman.net/).  
 HOMEWORK: Create a Processing sketch that utilizes conditional logic. Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
 
 ### September 17: NO CLASS
