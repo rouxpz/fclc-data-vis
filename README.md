@@ -97,21 +97,21 @@ HOMEWORK: Create a Processing sketch that utilizes conditional logic. Upload the
 ### September 17: NO CLASS
 
 ### September 24: Week 3 - Repetition
+- Programming Concepts: The String - Working with text and words
 - Programming Concepts: Iteration & Text
   - Loops: while & for
   - Arrays
-  - ArrayList()
-  - The String: Working with text and words
   - Writing your own functions
   - the map() function
 
 HOMEWORK: Review chapters 6, 7, 9 and 17 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
 HOMEWORK: Watch videos 6.0-7.3, 9.0-9.4, and 17.0 in the [ICM Video Series](http://icm.shiffman.net/).   
-HOMEWORK: Create a Processing sketch that produces a lot of something.  Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
+HOMEWORK: Create a Processing sketch that produces a lot of something. These things can all be identical, or can have the same basic structure/foundation with slight tweaks to each thing. You can use functions, arrays, or both to make this happen. Upload the sketch to the class Dropbox, and post a link to a blog post documenting the assignment in the [homework wiki](https://github.com/rouxpz/data-vis/wiki/Homework).
 
 ### October 1: Week 4 - Data Types (XML & Tabular Data)
 - Programming Concepts: Oriented Design
   -  Classes and objects
+  -  Arrays, continued; and ArrayList()
   -  Creating arrays and ArrayList() for custom classes
 - Types of Data
   - XML in Processing
