@@ -120,7 +120,6 @@ HOMEWORK: Create a Processing sketch that produces a lot of something. These thi
   - Creating objects from your data and saving them
 - CSV in Processing
   - The [Table class](https://processing.org/reference/Table.html)
-  - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)
 
 HOMEWORK: HOMEWORK: Review chapters 8 and 18 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
 HOMEWORK: Watch videos 8.0-8.5 and 18.3 - 18.5 in the [ICM Video Series](http://icm.shiffman.net/).  
@@ -163,6 +162,7 @@ HOMEWORK: Finish midterm project and post documentation to your blog. Post the l
 - Text as a data source
   - Burroughs, cut-ups, and the history of generative text
   - Text munging strategies in Processing:
+    - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)  
     - Word counting and concordance
     - [Markov Chains](http://en.wikipedia.org/wiki/Markov_chain) and the [RiTA library](http://rednoise.org/rita/)
     - Brief introduction to Natural Language Processing

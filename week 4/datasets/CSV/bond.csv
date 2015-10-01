@@ -1,0 +1,40 @@
+Film,Official Bond,Year,Bond actor,Bond kills,Others' kills,Total
+Dr. No ,Official,1962,Sean Connery,4,8,12
+From Russia With Love ,Official,1963,Sean Connery,11,16,27
+Goldfinger ,Official,1964,Sean Connery,9,68,77
+Thunderball ,Official,1965,Sean Connery,20,90,110
+You Only Live Twice ,Official,1967,Sean Connery,21,175,196
+On Her Majesty's Secret Service ,Official,1969,George Lazenby,5,37,42
+Diamonds Are Forever ,Official,1971,Sean Connery,7,42,49
+Live and Let Die ,Official,1973,Roger Moore,8,5,13
+The Man with the Golden Gun ,Official,1974,Roger Moore,1,5,6
+The Spy Who Loved Me ,Official,1977,Roger Moore,31,116,147
+Moonraker ,Official,1979,Roger Moore,12,69,81
+For Your Eyes Only ,Official,1981,Roger Moore,18,36,54
+Octopussy ,Official,1983,Roger Moore,15,43,58
+A View to a Kill ,Official,1985,Roger Moore,5,57,62
+The Living Daylights ,Official,1987,Timothy Dalton,13,29,42
+Licence to Kill ,Official,1989,Timothy Dalton,10,13,23
+GoldenEye ,Official,1995,Pierce Brosnan,47,25,72
+Tomorrow Never Dies ,Official,1997,Pierce Brosnan,30,24,54
+The World is Not Enough ,Official,1999,Pierce Brosnan,27,43,70
+Die Another Day ,Official,2002,Pierce Brosnan,31,20,51
+Casino Royale ,Official,2006,Daniel Craig,11,11,22
+Quantum of Solace ,Official,2008,Daniel Craig,16,15,31
+Skyfall ,Official,2012,Daniel Craig,,,
+Casino Royale ,Unoffocial,1954,Barry Nelson,,,
+Casino Royale,Unoffocial,1967,David Niven & Peter Sellers,,,
+Never Say Never Again ,Unoffocial,1983,Sean Connery,2,,
+,,,,,,
+TOTALS (inc Never Say Never),,,,354,947,1299
+AVERAGE,,,,16,43,59
+SOURCE,http://www.allouttabubblegum.com/main/?page_id=13572,,,,,
+,,,,,,
+Sum of Bond kills,,,,,,
+Bond actor,Total deaths,Deaths per movie,Number of official movies,,,
+Daniel Craig,27,13.5,2,,,
+George Lazenby,5,5.0,1,,,
+Pierce Brosnan,135,33.8,4,,,
+Roger Moore,90,12.9,7,,,
+Sean Connery,72,10.3,7,,,
+Timothy Dalton,23,11.5,2,,,
