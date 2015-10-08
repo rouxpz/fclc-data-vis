@@ -10,7 +10,7 @@ Email: [rvasudevan@fordham.edu](mailto:rvasudevan@fordham.edu)
 
 The word "data" is everywhere these days, mostly in reference to just how much of it we are generating, all the time. But once we have this data, how can we create tools that enable us to better understand exactly what it means? This class explores the world of data visualization and representation. We will look at a wide variety of examples, from charts and infographics, to interactive and web-based projects, to abstract, sculptural and more artistic works. Students will also work hands-on with taking raw datasets and translating them into visual outputs that allow the content to be read and understood by a larger audience.
 
-We will use both the Java-based Processing programming environment for desktop and physical projects, as well as JavaScript (mainly the d3 and p5 libraries) for web-based visualizations and design. However, projects using other languages or methods are highly encouraged. There will be weekly assignments, as well as a midterm and final project. No prior programming experience is required, but we will move realtively quickly through programming fundamentals, and some self-study will be required.
+We will use both the Java-based Processing programming environment for desktop and physical projects, as well as JavaScript (mainly the d3 and p5 libraries) for web-based visualizations and design. However, projects using other languages or methods are highly encouraged. There will be weekly assignments, as well as a midterm and final project. No prior programming experience is required, but we will move relatively quickly through programming fundamentals, and some self-study will be required.
 
 By the end of the course, students should understand and be able to utilize the basics of computer programming, as well as demonstrate an ability to take a raw data set and present it in a visual manner.
 
@@ -120,6 +120,7 @@ HOMEWORK: Create a Processing sketch that produces a lot of something. These thi
   - Creating objects from your data and saving them
 - CSV in Processing
   - The [Table class](https://processing.org/reference/Table.html)
+  - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)
 
 HOMEWORK: HOMEWORK: Review chapters 8 and 18 and the associated examples in [Learning Processing](http://www.learningprocessing.com/).  
 HOMEWORK: Watch videos 8.0-8.5 and 18.3 - 18.5 in the [ICM Video Series](http://icm.shiffman.net/).  
@@ -136,9 +137,19 @@ HOMEWORK: Pick a dataset from the ones provided on the class GitHub or Dropbox, 
 HOMEWORK: Read [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp. Post a response to your blog.  
 HOMEWORK: Pick a JSON dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use a JSON source or API of your choosing.  
 HOMEWORK: Come up with an idea for a midterm project. This is a collaborative effort (I will assign teams during class). Write a description of your idea and post it to your blog. BE THOROUGH; clearly explain what the data source is, what the intended visual will be and the process you will use to make it happen.  
+HOMEWORK: Post any questions you have about *ANY* of the programming concepts covered so far to the homework wiki by Wednesday night. 
 
-### October 15: Week 6 - Location & Tracking
-- Midterm project proposals (if time)
+### October 15: Week 6 - Review
+- Midterm project proposals
+- In class review of programming concepts covered so far  
+
+HOMEWORK: Work on your midterm project. Come prepared with your materials to work in-class next week.
+
+### October 22: Week 7 - In-Class Work Week
+
+HOMEWORK: Finish midterm project and post documentation to your blog. Post the link on the homework wiki.  
+
+### October 29: Week 8 - Location & Tracking
 - Guest Lecture: [Mimi Onuoha](http://mimionuoha.com/), Data & Society Fellow, Tow Center Researcher and NatGeo Fulbright Fellow 2014-2015
 - Using external libraries in Processing
 - Maps & Data
@@ -151,18 +162,12 @@ HOMEWORK: Come up with an idea for a midterm project. This is a collaborative ef
   - [Nicholas Felton](http://feltron.com/)
 
 HOMEWORK: Track your movement around campus or the city using OpenPaths for 3 days. Use a mapping tool to create a simple data visualization from this information in Processing.  
-HOMEWORK: Work on your midterm project. Come prepared with your materials to work in-class next week.
 
-### October 22: Week 7 - In-Class Work Week
-
-HOMEWORK: Finish midterm project and post documentation to your blog. Post the link on the homework wiki.  
-
-### October 29: Week 8 - Text
+### November 5: Week 9 - Text
 - **Midterm project presentations**
 - Text as a data source
   - Burroughs, cut-ups, and the history of generative text
   - Text munging strategies in Processing:
-    - [loadStrings()](https://processing.org/reference/loadStrings_.html) and [split()](https://processing.org/reference/split_.html)  
     - Word counting and concordance
     - [Markov Chains](http://en.wikipedia.org/wiki/Markov_chain) and the [RiTA library](http://rednoise.org/rita/)
     - Brief introduction to Natural Language Processing
@@ -172,26 +177,18 @@ HOMEWORK: Pick a text - novel, poem, scientific paper, whatever - and utilize it
   - Write a text concordance sketch
   - Visualize the number of words used, where certain words are used, or frequency of character/person names  
 
-HOMEWORK: Download [Sublime Text](http://www.sublimetext.com/) and [the p5.js Editor](http://p5js.org/download/).
+HOMEWORK: Read [Long Live The Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf) by Tim Berners-Lee. Post a response in your blog.  
+HOMEWORK: Download [the p5.js Editor](http://p5js.org/download/).  
+HOMEWORK: Come up with an idea for a final project. This should be an individual work. Post a detailed description of the project on your blog - what the dataset is, how you're planning on representing it, and what meaning you're hoping to convey to your audience.  
 
-### November 5: Week 9 - JavaScript & Web, Part 1
+### November 12: Week 10 - JavaScript & Web
+- Final Project Proposals
 - Examples of web-based visualizations
 - Introduction to JavaScript and the [Document Object Model (DOM)](http://css-tricks.com/dom/)
 - JavaScript syntax and the differences from Processing
 - [p5.js](http://p5js.org) as a bridge between Processing and JavaScript
 
-HOMEWORK: Read [Long Live The Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf) by Tim Berners-Lee. Post a response in your blog.  
-HOMEWORK: Revisit one of your old Processing sketches - and try your hand at translating it into JavaScript with p5.  
-HOMEWORK: Come up with an idea for a final project. This should be an individual work. Post a detailed description of the project on your blog - what the dataset is, how you're planning on representing it, and what meaning you're hoping to convey to your audience.  
-
-### November 12: Week 10 - JavaScript & Web, Part 2
-- Final Project Proposals
-- Parsing data in JavaScript using [d3.js](http://d3js.org/)
-- Using [d3.js](http://d3js.org/) and [p5.js](http://p5js.org/) to visualize data
-- Libraries and tools in JavaScript:
-  - [CartoDB (JavaScript)](http://cartodb.com/)
-  - [MapBox (JavaScript)](https://www.mapbox.com/)
-
+HOMEWORK: Revisit one of your old Processing sketches - and try your hand at translating it into JavaScript with p5.
 HOMEWORK: Read [Systems Esthetics](http://www.arts.ucsb.edu/faculty/jevbratt/readings/burnham_se.html) by Jack Burnham. Post a response to your blog.  
 HOMEWORK: Begin work on your final project.  
 
