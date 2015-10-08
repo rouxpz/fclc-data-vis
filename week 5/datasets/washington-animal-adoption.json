@@ -1,0 +1,229 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "sm23-uzbg",
+      "name" : "Pet Data - 2015 Adoptions",
+      "averageRating" : 0,
+      "category" : "Government",
+      "createdAt" : 1423252916,
+      "displayType" : "table",
+      "downloadCount" : 94,
+      "indexUpdatedAt" : 1442938928,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 13437968,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1442936089,
+      "publicationGroup" : 2203406,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1442936064,
+      "rowsUpdatedBy" : "y68w-aiqe",
+      "tableId" : 4417705,
+      "totalTimesRated" : 0,
+      "viewCount" : 39,
+      "viewLastModified" : 1442936089,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 222935561,
+        "name" : "Month",
+        "dataTypeName" : "text",
+        "fieldName" : "month",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 24470058,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Apr",
+          "null" : 0,
+          "largest" : "Sep",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Jan"
+          }, {
+            "count" : 19,
+            "item" : "Feb"
+          }, {
+            "count" : 18,
+            "item" : "Mar"
+          }, {
+            "count" : 17,
+            "item" : "Apr"
+          }, {
+            "count" : 16,
+            "item" : "May"
+          }, {
+            "count" : 15,
+            "item" : "Jun"
+          }, {
+            "count" : 14,
+            "item" : "Jul"
+          }, {
+            "count" : 13,
+            "item" : "Aug"
+          }, {
+            "count" : 12,
+            "item" : "Sep"
+          }, {
+            "count" : 11,
+            "item" : "Oct"
+          }, {
+            "count" : 10,
+            "item" : "Nov"
+          }, {
+            "count" : 9,
+            "item" : "Dec"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 222935563,
+        "name" : "Animals Adopted",
+        "dataTypeName" : "number",
+        "fieldName" : "animals_adopted",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 24470059,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 8,
+          "smallest" : "108",
+          "sum" : "1244",
+          "null" : 4,
+          "average" : "155.5",
+          "largest" : "251",
+          "top" : [ {
+            "count" : 20,
+            "item" : "141"
+          }, {
+            "count" : 19,
+            "item" : "108"
+          }, {
+            "count" : 18,
+            "item" : "116"
+          }, {
+            "count" : 17,
+            "item" : "123"
+          }, {
+            "count" : 16,
+            "item" : "158"
+          }, {
+            "count" : 15,
+            "item" : "231"
+          }, {
+            "count" : 14,
+            "item" : "251"
+          } ]
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "ph9f-eu4i",
+        "displayName" : "Cameron",
+        "roleName" : "publisher",
+        "screenName" : "Cameron",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "ph9f-eu4i",
+        "displayName" : "Cameron",
+        "roleName" : "publisher",
+        "screenName" : "Cameron",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "3F2B9D93-3B97-49CF-8480-5C8F4D4B41B5", 1, 1423252944, "392086", 1423252996, "392086", null, "Jan", "141" ]
+, [ 2, "4F32E80B-F8FC-4FFB-933F-2D014CDF9FFD", 2, 1423252950, "392086", 1425684005, "392086", null, "Feb", "108" ]
+, [ 3, "3C37E468-035C-4F25-A70A-A3F5DF9EFB0E", 3, 1423252955, "392086", 1429223307, "392086", null, "Mar", "116" ]
+, [ 4, "2DFFB4C9-6527-48F6-9DFE-935A5A21FC29", 4, 1423252959, "392086", 1431360349, "392086", null, "Apr", "116" ]
+, [ 5, "81DB1093-B7EC-43D4-B771-B22508D9A9D9", 5, 1423252963, "392086", 1433370416, "392086", null, "May", "123" ]
+, [ 6, "53997A68-AAE2-4BF7-8FE5-3C0C0F728AA1", 6, 1423252969, "392086", 1436565564, "392086", null, "Jun", "158" ]
+, [ 7, "1052D9FC-9480-45BB-9BC4-ACCF9F92A63F", 7, 1423252973, "392086", 1438975979, "392086", null, "Jul", "231" ]
+, [ 8, "F18CCD7A-D333-4451-A835-423F4718EA5A", 8, 1423252977, "392086", 1441388717, "392086", null, "Aug", "251" ]
+, [ 9, "C8717660-6E35-456B-8AA9-D04D241CEFF1", 9, 1423252981, "392086", 1423252981, "392086", null, "Sep", null ]
+, [ 10, "F83A4794-8879-49B2-A3BA-B46C3AA0AF1A", 10, 1423252985, "392086", 1423252985, "392086", null, "Oct", null ]
+, [ 11, "12BA0316-DA4D-4D39-9D8D-87B0222F41AF", 11, 1423252988, "392086", 1423252989, "392086", null, "Nov", null ]
+, [ 12, "4900CE19-63CF-4953-AD19-F92D43DA08D3", 12, 1423252992, "392086", 1423252992, "392086", null, "Dec", null ]
+ ]
+}

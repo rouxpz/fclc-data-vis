@@ -131,13 +131,17 @@ HOMEWORK: Pick a dataset from the ones provided on the class GitHub or Dropbox, 
 - Parsing JSON in Processing:
   - [JSONObject](https://processing.org/reference/JSONObject.html)
   - [JSON Arrays](https://processing.org/reference/JSONArray.html)
+- Associative Arrays: IntDict()
 - APIs and live data sources
-- [HashMaps](https://processing.org/reference/HashMap.html) and associative arrays: for when things aren't so cleanly organized
+  - [The Open Movie Database](http://omdbapi.com/)
+  - [The New York Times APIs](http://developer.nytimes.com/docs)
+  - [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
+  - Other API support for Processing: [Temboo](https://temboo.com/processing)
 
 HOMEWORK: Read [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp. Post a response to your blog.  
-HOMEWORK: Pick a JSON dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use a JSON source or API of your choosing.  
+HOMEWORK: Pick a JSON dataset from the ones provided on the class GitHub or Dropbox, and create a simple visualization from the data. Alternately, you may use a JSON source or API of your choosing. [You can find more JSON sources here.](https://catalog.data.gov/dataset?res_format=JSON)  
 HOMEWORK: Come up with an idea for a midterm project. This is a collaborative effort (I will assign teams during class). Write a description of your idea and post it to your blog. BE THOROUGH; clearly explain what the data source is, what the intended visual will be and the process you will use to make it happen.  
-HOMEWORK: Post any questions you have about *ANY* of the programming concepts covered so far to the homework wiki by Wednesday night. 
+HOMEWORK: Post any questions you have about *ANY* of the programming concepts covered so far to the homework wiki by Wednesday night.
 
 ### October 15: Week 6 - Review
 - Midterm project proposals
@@ -150,6 +154,7 @@ HOMEWORK: Work on your midterm project. Come prepared with your materials to wor
 HOMEWORK: Finish midterm project and post documentation to your blog. Post the link on the homework wiki.  
 
 ### October 29: Week 8 - Location & Tracking
+- **Midterm project presentations**
 - Guest Lecture: [Mimi Onuoha](http://mimionuoha.com/), Data & Society Fellow, Tow Center Researcher and NatGeo Fulbright Fellow 2014-2015
 - Using external libraries in Processing
 - Maps & Data
@@ -164,7 +169,6 @@ HOMEWORK: Finish midterm project and post documentation to your blog. Post the l
 HOMEWORK: Track your movement around campus or the city using OpenPaths for 3 days. Use a mapping tool to create a simple data visualization from this information in Processing.  
 
 ### November 5: Week 9 - Text
-- **Midterm project presentations**
 - Text as a data source
   - Burroughs, cut-ups, and the history of generative text
   - Text munging strategies in Processing:
@@ -188,7 +192,7 @@ HOMEWORK: Come up with an idea for a final project. This should be an individual
 - JavaScript syntax and the differences from Processing
 - [p5.js](http://p5js.org) as a bridge between Processing and JavaScript
 
-HOMEWORK: Revisit one of your old Processing sketches - and try your hand at translating it into JavaScript with p5.
+HOMEWORK: Revisit one of your old Processing sketches - and try your hand at translating it into JavaScript with p5.  
 HOMEWORK: Read [Systems Esthetics](http://www.arts.ucsb.edu/faculty/jevbratt/readings/burnham_se.html) by Jack Burnham. Post a response to your blog.  
 HOMEWORK: Begin work on your final project.  
 
@@ -222,7 +226,7 @@ HOMEWORK: Continue work on final project.
 
 HOMEWORK: Continue work on final project. Post a progress update with documentation of the work completed so far to your blog.
 
-### TBD: Week 13 - In-Class Work Week
+### TBD: Week 13 - In-Class Work Session
 
 HOMEWORK: Complete your final project, and post final documentation to your blog.  
 
