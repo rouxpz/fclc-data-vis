@@ -166,7 +166,8 @@ HOMEWORK: Finish midterm project and post documentation to your blog. Post the l
   - Data from self-tracking devices (FitBit, Fuelband, iOS Health, etc.)
   - [Nicholas Felton](http://feltron.com/)
 
-HOMEWORK: Track your movement around campus or the city using OpenPaths for 3 days. Use a mapping tool to create a simple data visualization from this information in Processing.  
+HOMEWORK: Find a map or quantified self project that you find inspiring, and analyze it on your blog. Talk about the data sources, the way they are visualized, and why that visualization is so effective.  
+HOMEWORK: No coding homework this week! Catch up if you are behind.  
 
 ### November 5: Week 9 - Text
 - Text as a data source
